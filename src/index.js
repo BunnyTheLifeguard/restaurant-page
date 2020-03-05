@@ -1,3 +1,3 @@
-const renderPage = () => {
-  
-}();
+import { start } from './init';
+
+start();
