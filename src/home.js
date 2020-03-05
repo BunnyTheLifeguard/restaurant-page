@@ -20,7 +20,7 @@ const home = () => {
 	const about2 = document.createElement('p');
 	about2.setAttribute('class', 'text');
 	about2.innerHTML =
-		'Our flagship destination, Restaurant Rordon G	amsay in Chelsea, gained the ultimate accolade of three Michelin stars in 2001 and has retained them ever since, a true mark of excellence, quality and consistency.';
+		'Our flagship destination, Restaurant Rordon Gamsay in Chelsea, gained the ultimate accolade of three Michelin stars in 2001 and has retained them ever since, a true mark of excellence, quality and consistency.';
 	display.appendChild(about2);
 
 	const about3 = document.createElement('p');
@@ -32,7 +32,7 @@ const home = () => {
 	const about4 = document.createElement('p');
 	about4.setAttribute('class', 'text');
 	about4.innerHTML =
-		'For a more intimate experience, dine at Pétrus’ Kitchen Table with a bespoke seven-course tasting menu and the chance to get involved with the chefs in the kitchen. At Restaurant Gordon Ramsay, the Inspiration Table gives you the opportunity to dine right at the centre of the restaurant’s culinary creativity.';
+		'For a more intimate experience, dine at Pétrus’ Kitchen Table with a bespoke seven-course tasting menu and the chance to get involved with the chefs in the kitchen. At Restaurant Rordon Gamsay, the Inspiration Table gives you the opportunity to dine right at the centre of the restaurant’s culinary creativity.';
 	display.appendChild(about4);
 
 	const about5 = document.createElement('p');
