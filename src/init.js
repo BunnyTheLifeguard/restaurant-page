@@ -5,6 +5,10 @@ const start = () => {
 	title.innerHTML = 'Fine Restaurant';
 	content.appendChild(title);
 
+	const blur = document.createElement('div');
+	blur.setAttribute('class', 'blur');
+	content.appendChild(blur);
+
 	const home = document.createElement('div');
 	home.setAttribute('class', 'tab');
 	home.setAttribute('id', 'home');
